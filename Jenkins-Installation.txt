@@ -33,3 +33,5 @@ sudo apt-get install jenkins
 8. Create a new user of your own by giving Name, Email-id, username, password. 
 
 9. Then Login into the console and explore Jenkins. 
+
+10, Path to see the job we create an jenkins console in the Jenkins server --> /var/lib/jenkins/workspace  
